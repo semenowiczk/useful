@@ -1,0 +1,27 @@
+h1. iTerm2 - Useful Shortcuts (Mac OS X)
+
+_with a hat tip to "Sublime Text 2 Shortcuts":https://gist.github.com/lucasfais/1207002_
+
+h2. The Awesome
+
+| *⌘;* | autocomplete |
+| *⌘⌥B* | instant replay |
+| *⌘⌥E* | search across all tabs |
+
+h2. Splits/Tabs
+
+| *⌘T* | open new tab |
+| *⌘⌥]* | next tab |
+| *⌘⌥[* | previous tab |
+| *⌘D* | split pane left-right |
+| *⌘⌥D* | split pane top-bottom |
+| *⌘]* | next pane |
+| *⌘[* | previous pane |
+| *⌘⌥I* | Input to all panes |
+
+h2. Resizing
+
+| *⌘⌥=* | toggle maximize window |
+| *⌘Enter* | toggle fullscreen |
+| *⌘+* | increase font and window size |
+| *⌘-* | decrease font and window size |
